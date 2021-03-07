@@ -28,3 +28,8 @@ body {
   text-transform: uppercase;
   letter-spacing: 3px;
 }
+
+.month .prev {
+  float: left;
+  padding-top: 10px;
+}
