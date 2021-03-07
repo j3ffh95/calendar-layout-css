@@ -38,3 +38,11 @@ body {
   float: right;
   padding-top: 10px;
 }
+
+.weekdays {
+  margin: 0;
+  padding: 10px 0;
+  background-color: #ddd;
+}
+
+
